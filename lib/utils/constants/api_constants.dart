@@ -7,4 +7,8 @@ class ApiConstants {
   static String photosEndpoint = '/photos';
   static String albumsEndpoint = '/albums';
   static String todosEndpoint = '/todos';
+  //pictures api
+  static String imgBaseUrl = 'https://api.waifu.pics';
+  static String sfwWaifu = '/sfw/waifu';
+  static String many = '/many';
 }
